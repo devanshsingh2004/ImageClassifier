@@ -28,7 +28,7 @@ View training loss and accuracy plots
 Display the confusion matrix and classification report
 
 ## 📸 Sample Input/Output
-Input: CIFAR-10 images (pre-processed) belonging to classes:
+### Input: CIFAR-10 images (pre-processed) belonging to classes:
 
 3: Cat
 
@@ -36,13 +36,13 @@ Input: CIFAR-10 images (pre-processed) belonging to classes:
 
 7: Horse
 
-Preprocessing:
+### Preprocessing:
 
 Flattened 32x32 RGB images into 1D arrays
 
 Normalized pixel values to the [0, 1] range
 
-Output:
+### Output:
 
 Training loss and accuracy plots
 
